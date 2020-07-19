@@ -6,7 +6,7 @@ class Footer extends React.Component {
   render() {
     return (
       <div className="fixed-bottom">
-        <div className="navbar" color="dark" dark>
+        <div className="navbar lego" color="dark" dark>
           <div className="container">
             <div className="navbarBrand" id="text">
               donutbear designs

@@ -7,7 +7,7 @@ class LandingPage extends React.Component {
     return (
       <div>
         <div className="jumbotron">
-          <div className="main-name clearfix">
+          <div className="main-name">
             <div>
               <h1>Nick Bombicino</h1>
             </div>

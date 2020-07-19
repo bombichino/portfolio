@@ -1,0 +1,9 @@
+.project-preview {
+  /* width: 40%; */
+  width: 350px;
+}
+
+.centered {
+  background-color: rgb(84, 84, 160);
+  box-shadow: 0 0 5px 10px #555;
+}

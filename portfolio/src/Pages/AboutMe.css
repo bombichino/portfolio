@@ -1,0 +1,69 @@
+.jumbo-about {
+  /* width: 100%;
+        background-image: url("../3.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        position: absolute; */
+  height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(245, 246, 252, 0.52),
+      rgb(46, 61, 126)
+    ),
+    url("../3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-div {
+  position: relative;
+  /* top: -200px; */
+  left: 40%;
+  width: 90%;
+}
+
+.about-me {
+  color: white;
+  width: 50%;
+}
+
+@media only screen and (max-width: 480px) {
+  .about-div {
+    left: 45%;
+    width: 90%;
+  }
+
+  .about-me {
+    color: white;
+    width: 50%;
+    font-size: 13px;
+  }
+}
+
+.lego-pic {
+  position: fixed;
+  top: 50px;
+  left: 20px;
+  width: 20%;
+  float: left;
+  justify-content: left;
+  -webkit-box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.75);
+}
+
+@media only screen and (max-width: 480px) {
+  .lego-pic {
+    width: 30%;
+    float: left;
+
+    /* margin-top: 50%; */
+  }
+}
+/* .container {
+  background-color: white;
+} */

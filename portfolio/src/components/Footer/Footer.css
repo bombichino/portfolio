@@ -1,3 +1,21 @@
 #text {
   color: white;
 }
+
+.lego {
+  /* height: 100vh;
+  width: 100%;
+  z-index: -1; */
+  background-image: linear-gradient(
+      to bottom,
+      rgba(245, 246, 252, 0.52),
+      rgb(46, 61, 126)
+    ),
+    url("../../lego.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 70%;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}

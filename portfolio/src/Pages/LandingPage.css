@@ -94,10 +94,6 @@ body {
   align-items: center;
 }
 
-.clearfix::after {
-  overflow: auto;
-}
-
 #bio-img {
   height: 200px;
   float: right;

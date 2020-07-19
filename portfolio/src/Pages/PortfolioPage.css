@@ -1,0 +1,40 @@
+.jumbotron {
+  /* width: 100%;
+      background-image: url("../3.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      position: absolute; */
+  height: 100vh;
+  width: 100%;
+  z-index: -1;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(245, 246, 252, 0.52),
+      rgb(46, 61, 126)
+    ),
+    url("../1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.projects-div {
+  position: relative;
+  top: 700px;
+  margin-bottom: 300px;
+  margin-top: 800px;
+}
+
+.portfolio-bio {
+  margin-top: 50px;
+  width: 30%;
+}
+
+@media (max-width: 480px) {
+  .portfolio-bio {
+    margin-top: 50px;
+    width: 40%;
+  }
+}
