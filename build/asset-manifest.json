@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "//bombichino.github.io/portfolio/static/css/main.75c58d16.chunk.css",
+    "main.js": "//bombichino.github.io/portfolio/static/js/main.3f19378e.chunk.js",
+    "main.js.map": "//bombichino.github.io/portfolio/static/js/main.3f19378e.chunk.js.map",
+    "runtime-main.js": "//bombichino.github.io/portfolio/static/js/runtime-main.a8f324b2.js",
+    "runtime-main.js.map": "//bombichino.github.io/portfolio/static/js/runtime-main.a8f324b2.js.map",
+    "static/css/2.af3c1da9.chunk.css": "//bombichino.github.io/portfolio/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.260cf63b.chunk.js": "//bombichino.github.io/portfolio/static/js/2.260cf63b.chunk.js",
+    "static/js/2.260cf63b.chunk.js.map": "//bombichino.github.io/portfolio/static/js/2.260cf63b.chunk.js.map",
+    "index.html": "//bombichino.github.io/portfolio/index.html",
+    "precache-manifest.9a127046e07107be697e89b90e7e4865.js": "//bombichino.github.io/portfolio/precache-manifest.9a127046e07107be697e89b90e7e4865.js",
+    "service-worker.js": "//bombichino.github.io/portfolio/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "//bombichino.github.io/portfolio/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.75c58d16.chunk.css.map": "//bombichino.github.io/portfolio/static/css/main.75c58d16.chunk.css.map",
+    "static/js/2.260cf63b.chunk.js.LICENSE.txt": "//bombichino.github.io/portfolio/static/js/2.260cf63b.chunk.js.LICENSE.txt",
+    "static/media/PortfolioPage.css": "//bombichino.github.io/portfolio/static/media/1.fff8079f.jpg",
+    "static/media/Contact.css": "//bombichino.github.io/portfolio/static/media/3.1d1dfeb3.jpg",
+    "static/media/Code-Quiz.png": "//bombichino.github.io/portfolio/static/media/Code-Quiz.020e9a26.png",
+    "static/media/Day-Planner.png": "//bombichino.github.io/portfolio/static/media/Day-Planner.dd95e5e7.png",
+    "static/media/Murder-Squad.png": "//bombichino.github.io/portfolio/static/media/Murder-Squad.e5e52011.png",
+    "static/media/Nick.JPG": "//bombichino.github.io/portfolio/static/media/Nick.cd3486a0.JPG",
+    "static/media/StanBase.png": "//bombichino.github.io/portfolio/static/media/StanBase.98bc3956.png",
+    "static/media/Weather-Dashboard.png": "//bombichino.github.io/portfolio/static/media/Weather-Dashboard.0fa779f0.png",
+    "static/media/Footer.css": "//bombichino.github.io/portfolio/static/media/lego.e9f863f5.jpg",
+    "static/media/nick-bombicino-resume.jpg": "//bombichino.github.io/portfolio/static/media/nick-bombicino-resume.528ce072.jpg",
+    "static/media/nick-bombicino-resume.pdf": "//bombichino.github.io/portfolio/static/media/nick-bombicino-resume.59273516.pdf",
+    "static/media/password-generator.png": "//bombichino.github.io/portfolio/static/media/password-generator.6ca7dcb3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8f324b2.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.260cf63b.chunk.js",
+    "static/css/main.75c58d16.chunk.css",
+    "static/js/main.3f19378e.chunk.js"
+  ]
+}
