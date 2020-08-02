@@ -1,5 +1,9 @@
 ## Portfolio
 
+# Current development
+
+As deploying on GitHub is necessary, attempting to deploy through GitHub Pages. At the moment, the README is populating and not the full website, though it has a stable run in development.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
